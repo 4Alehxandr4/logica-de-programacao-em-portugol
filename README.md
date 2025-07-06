@@ -35,7 +35,7 @@ Este repositório reúne meus exercícios e estudos iniciais de lógica de progr
 ## 🔧 Como executar os arquivos
 
 1. Abra o [Portugol](https://portugol.dev/) (ou qualquer IDE que aceite Portugol).
-2. Vá em ** Novo Arquivo** e selecione o código desejado.
+2. Vá em **Novo Arquivo** e selecione o código desejado.
 3. Clique em **Executar** para rodar o programa.
 
 ---
